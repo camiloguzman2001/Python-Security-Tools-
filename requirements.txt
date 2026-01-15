@@ -1,0 +1,8 @@
+# Python Security Tools - Requirements
+# github.com/CamiloSteez/python-security-tools
+
+# Required for breach checking and header analysis
+requests>=2.28.0
+
+# Optional - for enhanced features
+# colorama>=0.4.6  # Colored terminal output (Windows)
