@@ -21,7 +21,7 @@ A collection of practical security tools built in Python. Designed for penetrati
 
 ```bash
 # Clone the repository
-git clone https://github.com/CamiloSteez/python-security-tools.git
+git clone https://github.com/camiloguzman2001/python-security-tools.git
 cd python-security-tools
 
 # Install dependencies
